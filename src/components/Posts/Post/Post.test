@@ -1,0 +1,11 @@
+// import {render, screen } from '@testing-library/react';
+// import Post from './Post';
+
+// test("Post render", () => {
+//     render(<Post />)
+//     const textElement = screen.getByRole('button')
+//     expect(textElement).toBeInTheDocument()
+
+// })
+ 
+
